@@ -69,6 +69,6 @@ npm install -g newman-reporter-htmlextra
 
 
 ## Newman Report Summary:
-![Newman Report Summary](link)
+![Newman Report Summary] ![image](https://github.com/kabboCSE/Student-RestAPI-Newman/assets/123986919/89eb4b0c-1c63-4d88-9d78-b45ffad8091f)
 
-![Newman Report Summary](link)
+![Newman Report Summary] ![image](https://github.com/kabboCSE/Student-RestAPI-Newman/assets/123986919/e263e0d3-43bd-48e2-858b-26a54ab7b01f)
